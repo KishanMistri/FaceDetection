@@ -1,4 +1,4 @@
-# FaceDetection
+# FaceDetection & recognition using CNN
 Using openCV libraby and Python language on Anaconda Platform 
 Face detection using Haar cascade Training detector 
 with AT&T and Yalefaces DB
@@ -24,6 +24,8 @@ to compare F:\myimages\probes\amy3.png against png images in the folder 'F:\myim
 python pyfacesdemo F:\myimages\probes\amy3.png F:\myimages\gallery 6 3
 
 
+
 Tested on Windows7 + python 2.7
 and Ubuntu Lucid + python 2.6.5
 using 183 images from jaffe database
+
